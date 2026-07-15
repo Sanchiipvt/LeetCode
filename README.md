@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sanchiipvt/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Sanchiipvt/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Sanchiipvt/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Sanchiipvt/LeetCode/tree/master/0724-find-pivot-index) |
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sanchiipvt/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sanchiipvt/LeetCode/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
