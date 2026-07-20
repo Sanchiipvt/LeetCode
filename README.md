@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanchiipvt/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Sanchiipvt/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Sanchiipvt/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanchiipvt/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/Sanchiipvt/LeetCode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Sanchiipvt/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Math
@@ -19,6 +20,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanchiipvt/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sanchiipvt/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanchiipvt/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -28,4 +30,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanchiipvt/LeetCode/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanchiipvt/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sanchiipvt/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sanchiipvt/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
