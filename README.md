@@ -15,10 +15,12 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sanchiipvt/LeetCode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Sanchiipvt/LeetCode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanchiipvt/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/Sanchiipvt/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sanchiipvt/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanchiipvt/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
@@ -30,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanchiipvt/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Sanchiipvt/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanchiipvt/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
