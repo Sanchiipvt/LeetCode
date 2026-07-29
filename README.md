@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/Sanchiipvt/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanchiipvt/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/Sanchiipvt/LeetCode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/Sanchiipvt/LeetCode/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/Sanchiipvt/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Math
 |  |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sanchiipvt/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/Sanchiipvt/LeetCode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
