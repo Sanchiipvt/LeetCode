@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sanchiipvt/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Sanchiipvt/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanchiipvt/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Sanchiipvt/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sanchiipvt/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Sanchiipvt/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanchiipvt/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -40,6 +41,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sanchiipvt/LeetCode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanchiipvt/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Sanchiipvt/LeetCode/tree/master/0792-binary-search) |
 ## Sorting
